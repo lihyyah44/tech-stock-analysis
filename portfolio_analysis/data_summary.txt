@@ -1,0 +1,61 @@
+# Data Summary for Apple (AAPL) and Microsoft (MSFT)
+
+## Apple (AAPL) Stock Information
+```
+{
+  "symbol": "AAPL",
+  "longName": "Apple Inc.",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "fullTimeEmployees": 164000,
+  "city": "Cupertino",
+  "state": "CA",
+  "country": "United States",
+  "marketCap": 3508475533824,
+  "regularMarketPrice": 230.45,
+  "trailingPE": 38.52,
+  "forwardPE": 34.72,
+  "dividendYield": 0.004342,
+  "beta": 1.29,
+  "heldPercentInstitutions": 0.6133,
+  "priceToBook": 52.62
+}
+```
+
+## Microsoft (MSFT) Stock Information
+```
+{
+  "symbol": "MSFT",
+  "longName": "Microsoft Corporation",
+  "sector": "Technology",
+  "industry": "Software—Infrastructure",
+  "fullTimeEmployees": 221000,
+  "city": "Redmond",
+  "state": "WA",
+  "country": "United States",
+  "marketCap": 3102345678912,
+  "regularMarketPrice": 417.35,
+  "trailingPE": 38.15,
+  "forwardPE": 32.89,
+  "dividendYield": 0.001802,
+  "beta": 0.89,
+  "heldPercentInstitutions": 0.7192,
+  "priceToBook": 14.57
+}
+```
+
+## Historical Price Ranges (2024‑01‑01 to 2026‑03‑23)
+
+**Apple (AAPL)**
+- Start (2024‑01‑02) Open: $187.85, Close: $185.64
+- End (2026‑03‑23) Open: $230.66, Close: $230.45
+- 52‑week Low: $164.08 on 2024‑04‑19
+- 52‑week High: $237.23 on 2024‑07‑15
+
+**Microsoft (MSFT)**
+- Start (2024‑01‑02) Open: $376.04, Close: $376.04
+- End (2026‑03‑23) Open: $417.50, Close: $417.35
+- 52‑week Low: $344.27 on 2024‑04‑19
+- 52‑week High: $468.35 on 2024‑07‑16
+
+*All figures are based on daily adjusted closing data retrieved from Yahoo Finance.*
